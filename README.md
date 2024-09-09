@@ -14,14 +14,7 @@ I really like my chosen field because through this field I am making many friend
 - **Tools:** VS Code, Figma, Webpack
 - **API Integration:** REST APIs, GraphQL, CoinGecko API
 
-## Get in Touch 📬
 
-Feel free to reach out to me for collaborations, projects, or just to say hi:
-
-- **Email:** rakhmatovmirmansur@gmail.com
-- **Telegram:** [Mirmansur on Telegram](https://t.me/mirmansur702)
-- **GitHub:** [Mirmansur on GitHub](https://github.com/Mirmansur)
-- **Instagram:** [Mirmansur on Instagram](https://www.instagram.com/mirmansur_developer/)
 
 ## Skills & Tools 🛠
 
