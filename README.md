@@ -21,7 +21,7 @@ I really like my chosen field because through this field I am making many friend
 Here’s a quick list of the technologies I work with:
 
 - **Languages:** HTML, CSS, JavaScript (ES6+), TypeScript
-- **Libraries & Frameworks:** React, Next.js, Tailwind CSS
+- **Libraries & Frameworks:** React, Next.js, Vue.js, Tailwind CSS 
 - **Version Control:** Git, GitHub
 - **Design Tools:** Figma
 
