@@ -8,7 +8,7 @@ I really like my chosen field because through this field I am making many friend
 
 ### My Expertise 🔧
 
-- **Frontend Frameworks:** React, Next.js
+- **Frontend Frameworks:** React, Next.js , Vue.js
 - **Styling:** Tailwind CSS, Sass, Styled Components
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Figma, Webpack
